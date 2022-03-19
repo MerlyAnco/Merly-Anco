@@ -4,7 +4,6 @@
 
   ![](https://komarev.com/ghpvc/?username=MerlyAnco&color=ff69b4)
     <img src="https://img.shields.io/badge/Languages-English%20%26%20Portugués-ff69b4" />
-    [![linkedin badge](https://img.shields.io/badge/tanyagupta0201-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/tanyagupta0201)
 </div>
 <br/>
 
