@@ -24,12 +24,9 @@ class Bio extends FrontendDeveloper {
   name     = 'Merly Anco';
   title    = 'Front-End Developer';
   location = 'Perú';
-  languagues = ['English', 'Portugués', 'Spanish']
-}
-class Skills extends FrontendDeveloper {
-  frontend  = ['JavaScript', 'React', 'Html', 'CSS'];
-  backend  = ['apiRest', 'MongoDB', 'NodeJs', 'ExpressJs'];
-  frameworks = ['React', 'Vue'];
+  languagues = ['English', 'Portugues', 'Spanish'];
+  hobbies = ['Watch anime and series', 'Listen Music']
+  passion = ['programming', 'travel', 'my rabbit']
 }
 ```
 ## My Skills
